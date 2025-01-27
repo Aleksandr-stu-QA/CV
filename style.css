@@ -1,0 +1,30 @@
+
+h1 {
+	color: green;
+	margin-left: 500px;
+	font-style: oblique;
+}
+img{
+	margin-left: 800px;
+}
+body {
+	background-color: #ffffcc;
+
+}
+p {
+	margin-left: 200px;
+	font-size: 20px;
+	font-style: oblique;
+
+}
+ul {
+	margin-left: 200px;
+	font-size: 20px;
+	font-style: oblique;
+	background-color: #ccff99;
+}
+a {
+	margin-left: 200px;
+	font-size: 20px;
+	font-style: oblique
+}
